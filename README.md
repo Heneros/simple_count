@@ -1,5 +1,7 @@
 # simple_count
 Bootstrap 4 and Js
-#Run app
+
+
+# Run app
 npm install
 npm start 
